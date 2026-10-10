@@ -44,6 +44,3 @@ HiddenStore/
 └── database/hiddenstore.sql
 ```
 
-## Notes
-- Don't commit real database passwords to a public repository.
-- Product images are optional; a placeholder is shown when none is uploaded.
