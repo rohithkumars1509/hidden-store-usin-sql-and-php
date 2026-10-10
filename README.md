@@ -2,6 +2,9 @@
 
 A simple e‑commerce site built with plain PHP (PDO) and MySQL, styled with Bootstrap 4.
 
+** THE LOGIN Email: `admin@hiddenstore.com`
+             Password: `admin123` **
+
 ## Features
 - Product listing with search, category and brand filters
 - Product detail page ("View more")
