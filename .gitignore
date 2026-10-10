@@ -1,0 +1,6 @@
+.DS_Store
+.idea/
+.vscode/
+uploads/*
+!uploads/.gitkeep
+!uploads/.htaccess
